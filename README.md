@@ -1,10 +1,6 @@
 # 🕵️‍♂️ AI Job Scraper: Local-First, Privacy-Focused Job Search
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![vLLM](https://img.shields.io/badge/vLLM-2C2C2C?style=for-the-badge)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GitHub](https://img.shields.io/badge/GitHub-BjornMelin-181717?logo=github)](https://github.com/BjornMelin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BjornMelin-0077B5?logo=linkedin)](https://www.linkedin.com/in/bjorn-melin/)
 
 AI Job Scraper is a modern, open-source Python application designed to automate and streamline your job search for roles in the AI and Machine Learning industry. Built with **local-first AI processing** using Qwen/Qwen3-4B-Instruct-2507-FP8, it automatically scrapes job postings from top AI companies and provides a powerful Streamlit interface—all while ensuring your data remains completely private and local.
 
