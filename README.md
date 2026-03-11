@@ -255,21 +255,4 @@ ruff format .
 uv run pytest
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Our development philosophy prioritizes:
-
-* **Library-first approaches** over custom implementations
-* **Simplicity and maintainability** over complex abstractions
-* **Local-first processing** for privacy and performance
-* **Modern Python patterns** with comprehensive type hints
-
-Please fork the repository, create a feature branch, and open a pull request. See the [Developer Guide](./docs/developers/developer-guide.md) for detailed contribution guidelines.
-
-## 📃 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-> **Built with ❤️ for the AI/ML community | Privacy-first | Local-first | Open source**
